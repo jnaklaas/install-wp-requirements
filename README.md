@@ -61,8 +61,6 @@ echo 'source $(brew --prefix nvm)/nvm.sh' >> ~/.bash_profile
 fi
 nvm install # install latest node
 nvm install --lts # install and load latest stable node
-npm install -g node-sass # install node-sass globally
-npm install -g nodemon # install nodemon globally
 
 # yarn
 brew install yarn
