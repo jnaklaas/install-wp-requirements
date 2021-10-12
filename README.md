@@ -6,7 +6,7 @@ When using the Sage way for developing Wordpress projects, there's a few require
 *   **[Mysql](https://www.mysql.com/)**
 *   **Webserver** (apache / nginx)
 *   **[Node](https://nodejs.org/en/)** version >= 12.18
-    (when using nvm check with nvm list to show current version, execute nvm use stable to switch to stable version, currently v15)
+    (when using nvm execute `nvm list` to show current version, execute `nvm use stable` to switch to stable version if necessary, currently v15)
 *   **Yarn**
 *   **[Composer](https://getcomposer.org/)**
 *   **[Wp cli](https://make.wordpress.org/cli/handbook/guides/installing/)**
